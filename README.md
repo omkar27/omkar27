@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omkar27
 - 👀 I’m interested in Python 
 - 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate on Any Opensource
+- 💞️ I’m looking to collaborate on Any Opensource Project
 - 📫 How to reach me omkarterkar27@gmail.com
 
 <!---
